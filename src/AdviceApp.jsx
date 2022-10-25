@@ -28,10 +28,13 @@ export const AdviceApp = () => {
         }
       }
 
-    useEffect(() => {
+      useEffect(() => {
+      
         getUser();
-    }, [setId])
-    
+        
+      }, [setId])
+      
+  
       
     return (
         <>
