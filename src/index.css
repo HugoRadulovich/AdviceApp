@@ -1,0 +1,31 @@
+
+
+
+body{
+    background-color:hsl(218, 23%, 16%);
+}
+.card-w{
+    background-color: hsl(217, 19%, 24%);
+    width: 60vh;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.tex-id-color{
+    color: hsl(150, 100%, 66%);
+}
+
+.tex-adv-color{
+    color: hsl(193, 38%, 86%);
+}
+
+.btn-color{
+    background-color:hsl(150, 100%, 66%);
+    height: 60px;
+    width: 60px;
+    border: none;
+}
+.btn-color:hover {
+    box-shadow: 0 4px 16px hsl(150, 100%, 66%);
+    transition: all 0.2s ease;
+}
+
+
