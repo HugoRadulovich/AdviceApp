@@ -1,6 +1,4 @@
 
-
-
 body{
     background-color:hsl(218, 23%, 16%);
 }
@@ -27,5 +25,3 @@ body{
     box-shadow: 0 4px 16px hsl(150, 100%, 66%);
     transition: all 0.2s ease;
 }
-
-
